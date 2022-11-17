@@ -1,0 +1,81 @@
+#main-heading{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    margin-left: 36%;
+    color: rgb(39, 68, 214);
+}
+header {
+    margin-top: 2%;
+}
+main {
+    margin-top: 5%;
+}
+
+.logo{
+    margin-left: 16%;
+    display: inline-block;
+}
+.about {
+    display: flex;
+}
+.all{
+    border: black 1px solid;   
+}
+.head-logo{
+    display: inline-flex;
+    margin-left: 18%;
+    width: 620px;
+}
+.link {
+    margin-top: 4%;
+    font-size: 20px;   
+}
+.head-logo .logo{
+    width: 10%;
+}
+.leaders-name {
+    width: 80%;
+}
+.leaders-name p {
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 80px ;
+    margin-left : 80px;
+}
+.link a {
+    text-decoration: none;
+    padding: 8px 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.link a:hover{
+    background-color: grey;
+    color: black;
+}
+
+.content {
+    width: 920px;
+    height: 170px;
+    float: left;
+    text-align: center;
+    display:inline;
+    padding:1% 20px;
+    font-size: 19px;
+}
+
+.quote {
+    font-family: sans-serif;
+    font-size: 26px;
+    padding-left: 6%;
+}
+
+.name {
+    font-family: sans-serif;
+    font-size: 30px;
+    padding-left: 75%;
+    
+}
+
