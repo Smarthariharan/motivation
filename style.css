@@ -19,9 +19,7 @@ main {
 .about {
     display: flex;
 }
-.all{
-    border: black 1px solid;   
-}
+
 .head-logo{
     display: inline-flex;
     margin-left: 18%;
